@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+#to native ine endings on checkout.
+*.c text
+*.h text
